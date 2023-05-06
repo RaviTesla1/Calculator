@@ -12,7 +12,9 @@ body{
 .container{
     max-width: 260px;
     margin: 100px auto;
-    /* background-color: aqua; */
+    background-color: rgb(12, 39, 68);
+    padding: 18px;
+    border-radius: 14px;
 }
 
    
@@ -37,16 +39,20 @@ input{
 button{
     padding: 14px;
     font-size: 22px;
-    /* margin: 8px; */
     color:  #740614;
     background-color: #a4dcbb ;
     border: none;
     font-weight: 700;
-    transition: all 1s ease-in-out;
     border-radius: 4px;
+    transition: all 1s ease-in-out;
 }
 button:hover{
-    background-color: transparent;
+    /* background-color: transparent; */
+    border: 3px solid #740614;
+}
+.btn:nth-child(14){
+    color:  #a4dcbb;
+    background-color:   #740614;
 }
 
 

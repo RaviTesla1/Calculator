@@ -8,7 +8,8 @@ This is a calculator where user can do basic calculations .
   - CSS - Cascadeing Spread Sheet
   - JS - Java Script
 
-
+## Demo : 
+![](./127.0.0.1_5500_index.html.png)
 
 
 
@@ -31,7 +32,7 @@ This is a calculator where user can do basic calculations .
 
 ## 😌 Honest Time to finish the project
 
-I have taken nearly 6 hours to complete this project .
+I have taken nearly 1 hour to complete this project .
 
 ## 👀 Feedback
 If you have any feedback, please reach out to us at ravibatalvi55@gmail.com
