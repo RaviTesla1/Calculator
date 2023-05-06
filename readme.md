@@ -9,7 +9,13 @@ This is a calculator where user can do basic calculations .
   - JS - Java Script
 
 ## Demo : 
-![](./127.0.0.1_5500_index.html.png)
+![](./Images/127.0.0.1_5500_index.html.png)
+
+## 🚀[Live link](https://claculatorr.netlify.app/)
+
+## 🚀[Source Code]( https://github.com/RaviTesla1/Calculator)
+
+
 
 
 
