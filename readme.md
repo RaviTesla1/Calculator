@@ -9,7 +9,7 @@ This is a calculator where user can do basic calculations .
   - JS - Java Script
 
 ## Demo : 
-![](./Images/127.0.0.1_5500_index.html.png)
+![](./Images/img.png)
 
 ## 🚀[Live link](https://claculatorr.netlify.app/)
 
